@@ -1,5 +1,5 @@
 def my_each(collection) # put argument(s) here
   # code here
-  counter = 1
+  counter = 0
   while
 end
